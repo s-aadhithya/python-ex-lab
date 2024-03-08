@@ -20,7 +20,7 @@ df['Total_Price'] = df['Quantity'] * df['Price_per_Unit']
 # Data Visualization
 product_sales = df.groupby('Product_Name')['Total_Price'].sum()
 plt.figure(figsize=(10, 6))
-product_sales.plot(kind='bar', color='skyblue')
+product_sales.plot(kind='bar', color='red')
 plt.title('Total Sales for Each Product')
 plt.xlabel('Product')
 plt.ylabel('Total Sales ($)')
