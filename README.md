@@ -4,6 +4,8 @@
 
 <h2 align="center"> All  Lab Exercises </h2>
 
+> **_NOTE:_**  I request to use Microsoft Visual Studio Code to obtain the results for 7th and 13th exercises above.
+
 ### Tuples, Lists, Sets, Dictionaries:
 
 1. [Tuples](./Exercise/1.py)
@@ -21,6 +23,8 @@
 6. [String Manipulation](./Exercise/6.py)
  
 7. [e-Mail Validation](./Exercise/7.py)
+ > **_NOTE:_**   
+During this 7th exercise, you need to install the required packages for execution, such as <code>pip install validate_email</code> , <code>pip install email-validate</code> and <code>pip install dnspython</code>. These packages can be installed in your <b>Command Prompt</b> or <b>Terminal</b>. If the program does not produce the expected result when run, please debug the code to ensure accurate results.
 
 8. [List of Dictionaries](./Exercise/8.py)
 
@@ -59,6 +63,8 @@
 17. #### Working with a Dataset for e-Commerce Company
     - [Exercise Code](./Exercise/17.py)
     - [Salary Data CSV File](./Exercise/sales_data.csv)
+ > **_NOTE:_**   
+During this 17th exercise, you need to install the required packages for execution. The package is  <code>pip install matplotlib</code> . If your system does not have NumPy and Pandas installed, you can install them using the following commands: <code>pip install numpy</code> and <code>pip install pandas</code>. These packages can be installed in your <b>Comment prompt</b> or <b>Terminal</b>.
 
 ### Networking and GUI:
 
