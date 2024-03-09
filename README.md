@@ -2,9 +2,11 @@
 <div align="center"><img align="center" src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="100" width="325" /></div>
 <h1 align="center">🚀 Python Programming 📖</h1>
 
-<h2 align="center"> All  Lab Exercises </h2>
+<h2 align="center"> Lab Exercises </h2>
 
-> **_NOTE:_**  I request to use Microsoft Visual Studio Code to obtain the results for 7th and 13th exercises above.
+<div align="center" ><h2><a href="./QUESTIONS.md">Lab Exercises Questions</a></h2><br/></div>
+
+> **_NOTE:_**  Use Microsoft Visual Studio Code to Execute the 7th , 13th and  above exercises.
 
 ### Tuples, Lists, Sets, Dictionaries:
 
