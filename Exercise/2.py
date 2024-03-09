@@ -9,4 +9,5 @@ def prime(num):
 def prime_list(number):
     return[(x,y) for x,y in combinations(number,2) if prime(x+y)]
 n_l=[1,2,3,4,5,6,7,8,9]
-print(prime_list(n_l))
+result=prime_list(n_l)
+print(result)
