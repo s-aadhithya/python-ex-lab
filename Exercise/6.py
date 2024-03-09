@@ -4,4 +4,5 @@ def title_case(sentence):
     n_sentence=' '.join([word.capitalize() if word.lower() not in common_terms or sm==0 else word.lower() for sm, word in enumerate(terms)])
     return n_sentence
 m_s="i want a proper cup of coffee in a proper coffee pot"
-print(title_case(m_s))
+result=title_case(m_s)
+print(result)
