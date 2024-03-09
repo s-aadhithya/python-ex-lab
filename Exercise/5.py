@@ -30,4 +30,5 @@ def cg(exam_score,assignment_score,participation_score):
 exam_score=float(input("Enter the Exam Score: "))
 assignment_score=float(input("Entr the Assignment Score: "))
 participation_score=float(input("Enter the Participation Score: "))
-print(cg(exam_score,assignment_score,participation_score))
+result=cg(exam_score,assignment_score,participation_score)
+print(result)
