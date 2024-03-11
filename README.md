@@ -65,6 +65,7 @@ During this 7th exercise, you need to install the required packages for executio
 17. #### Working with a Dataset for e-Commerce Company
     - [Exercise Code](./Exercise/17.py)
     - [Salary Data CSV File](./Exercise/sales_data.csv)
+    - [Algorithm](./17th-Algorithm.md)
  > **_NOTE:_**   
 During this 17th exercise, you need to install the required packages for execution. The package is  <code>pip install matplotlib</code> . If your system does not have NumPy and Pandas installed, you can install them using the following commands: <code>pip install numpy</code> and <code>pip install pandas</code>. These packages can be installed in your <b>Comment prompt</b> or <b>Terminal</b>.
 
